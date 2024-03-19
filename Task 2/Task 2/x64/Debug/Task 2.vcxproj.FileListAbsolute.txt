@@ -1,0 +1,3 @@
+C:\Users\PC\Desktop\CODESOFT\CODSOFT\Task 2\Task 2\x64\Debug\Task 2.vcxproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CODESOFT\CODSOFT\Task 2\Task 2\x64\Debug\Task2.MyForm.resources
+C:\Users\PC\Desktop\CODESOFT\CODSOFT\Task 2\Task 2\x64\Debug\Task 2.vcxproj.GenerateResource.cache

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A33220-787C-44BF-8604-8817B8282DEB}|Task 4.vcxproj|C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74A33220-787C-44BF-8604-8817B8282DEB}|Task 4.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A33220-787C-44BF-8604-8817B8282DEB}|Task 4.vcxproj|C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\completedlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74A33220-787C-44BF-8604-8817B8282DEB}|Task 4.vcxproj|solutionrelative:completedlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A33220-787C-44BF-8604-8817B8282DEB}|Task 4.vcxproj|C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\tasklist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74A33220-787C-44BF-8604-8817B8282DEB}|Task 4.vcxproj|solutionrelative:tasklist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\Rar$DIa25736.7355\\P1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "completedlist.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\completedlist.txt",
+              "RelativeDocumentMoniker": "completedlist.txt",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\completedlist.txt",
+              "RelativeToolTip": "completedlist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-19T10:19:43.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tasklist.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\tasklist.txt",
+              "RelativeDocumentMoniker": "tasklist.txt",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\tasklist.txt",
+              "RelativeToolTip": "tasklist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-19T10:19:02.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CODESOFT\\CODSOFT\\Task 4\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T10:12:03.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0527d8ff-d707-4c77-923c-65fb44cf6dc1",
+        "Display": 1,
+        "X": -13,
+        "Y": 940,
+        "Width": 1102,
+        "Height": 924,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\Rar$DIa25736.7355\\P1.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa25736.7355\\P1.cpp",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\Rar$DIa25736.7355\\P1.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa25736.7355\\P1.cpp",
+              "ViewState": "AQIAAL0BAAAAAAAAAAAAAFcCAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T10:36:31.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

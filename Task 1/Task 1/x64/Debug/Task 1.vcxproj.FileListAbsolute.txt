@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Visual Studio Projects\gui test\Task 1\Task 1\x64\Debug\Task 1.vcxproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Visual Studio Projects\gui test\Task 1\Task 1\x64\Debug\Task1.MyForm.resources
+C:\Users\PC\Desktop\Visual Studio Projects\gui test\Task 1\Task 1\x64\Debug\Task 1.vcxproj.GenerateResource.cache
+C:\Users\PC\Desktop\CODESOFT\CODSOFT\Task 1\Task 1\x64\Debug\Task 1.vcxproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CODESOFT\CODSOFT\Task 1\Task 1\x64\Debug\Task1.MyForm.resources
+C:\Users\PC\Desktop\CODESOFT\CODSOFT\Task 1\Task 1\x64\Debug\Task 1.vcxproj.GenerateResource.cache
